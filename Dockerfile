@@ -1,5 +1,5 @@
-FROM sameersbn/ubuntu:14.04.20160321
-MAINTAINER sameer@damagehead.com
+FROM m0elnx/ubuntu-32bit:latest
+MAINTAINER M0E.lnx@gmail.com
 
 ENV REDIS_USER=redis \
     REDIS_DATA_DIR=/var/lib/redis \
