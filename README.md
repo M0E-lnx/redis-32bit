@@ -1,6 +1,7 @@
-[![Circle CI](https://circleci.com/gh/sameersbn/docker-redis.svg?style=shield)](https://circleci.com/gh/sameersbn/docker-redis) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/redis/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/redis)
+# m0elnx/redis-32bit
 
-# sameersbn/redis
+This is a fork of sameersbn/redis modified to run on a 32-bit ubuntu environment.  The documentation
+provided by sameersbn still applies.
 
 - [Introduction](#introduction)
   - [Contributing](#contributing)
